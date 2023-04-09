@@ -1,1 +1,1 @@
-# southcentral.guthub.io
+# southcentral.github.io
